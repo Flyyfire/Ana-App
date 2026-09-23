@@ -1,6 +1,8 @@
 {
-  "bundleId": "2.36.36",
-  "version": "2.36.36",
-  "url": "https://github.com/Flyyfire/Ana-App/releases/download/ota/bundle-2.36.36.zip",
-  "checksum": "2e75e9029c2d0e8c0c94c7603ba8990111860cb2142fa81d2fa6e119a1fddab6"
+  "bundleId": "2.36.37",
+  "version": "2.36.37",
+  "url": "https://github.com/Flyyfire/Ana-App/releases/download/ota/bundle-2.36.37.zip",
+  "checksum": "cba844af298154dcdc92e90e388e1b21d81fabc9d47ed6d235b2f2265a7a7e22",
+  "minNativeVersionCode": 1,
+  "apkUrl": "https://github.com/Flyyfire/Ana-App/releases/download/latest/app-debug.apk"
 }
